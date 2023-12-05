@@ -17,6 +17,7 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+/* H1 logo which functions as link back to home page in nav */
 #logo {
     font-family: 'BioRhyme', serif;
     letter-spacing: 2px;
@@ -40,12 +41,12 @@ header a {
     color: inherit;
 }
 
-header ul {
-    list-style: none;
+#menu {
+    list-style-type: none;
     text-align: left;
 }
 
-header ul li {
+#menu li {
     letter-spacing: 2px;
     margin-bottom: 1em;
 }
@@ -87,4 +88,40 @@ main {
 
 footer {
     background-color: green;
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+    #logo {
+        font-size: 280%;
+        line-height: 75px;
+        margin: 0 0.5rem;
+    }
+
+    /* Main content */
+    main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 75px;
+    }
 }
