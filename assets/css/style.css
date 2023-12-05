@@ -18,21 +18,36 @@ body {
 
 #logo {
     font-family: 'BioRhyme', serif;
+    letter-spacing: 2px;
 }
 
 /* background-colors below for purpose of arranging flexbox, will be deleted later */
 header {
     background-color: white;
     position: fixed;
-    padding: 0 1rem 0.75rem;
+    padding: 0 1rem 0;
     z-index: 10;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 header ul {
     list-style: none;
     text-align: left;
+}
+
+header ul li {
+    letter-spacing: 2px;
+    margin-bottom: 1em;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
 
 main {
