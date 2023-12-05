@@ -1,3 +1,11 @@
+/* Asterisk wildcard selector to override default styles added by the browser */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 /* General styles */
 
 body {
@@ -8,9 +16,23 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+#logo {
+    font-family: 'BioRhyme', serif;
+}
+
 /* background-colors below for purpose of arranging flexbox, will be deleted later */
 header {
-    background-color: red;
+    background-color: white;
+    position: fixed;
+    padding: 0 1rem 0.75rem;
+    z-index: 10;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+}
+
+header ul {
+    list-style: none;
+    text-align: left;
 }
 
 main {
