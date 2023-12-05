@@ -1,2 +1,23 @@
-body { background-color: rgb(204, 255, 255);
+/* General styles */
+
+body {
+    background-color: rgb(204, 255, 255);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* background-colors below for purpose of arranging flexbox, will be deleted later */
+header {
+    background-color: red;
+}
+
+main {
+    background-color: yellow;
+    /* make the main element take up surplus space in viewport to push the footer element down to the bottom */
+    flex: 1 0 auto;
+}
+
+footer {
+    background-color: green;
 }
