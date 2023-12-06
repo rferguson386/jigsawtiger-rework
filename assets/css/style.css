@@ -88,6 +88,17 @@ main {
 
 footer {
     background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+#footer-social-icons, #footer-music-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer ul {
+    list-style-type: none;
 }
 
 /* Media query: tablets and larger (768px and up) */
