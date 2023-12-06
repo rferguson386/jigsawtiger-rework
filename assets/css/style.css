@@ -89,12 +89,13 @@ main {
 footer {
     background-color: white;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 #footer-social-icons, #footer-music-icons {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    text-align: center;
 }
 
 footer ul {
