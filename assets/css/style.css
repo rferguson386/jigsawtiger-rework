@@ -84,6 +84,32 @@ main {
     margin-top: 50px;
 }
 
+h2 {
+    padding-top: 1%;
+    padding-left: 8%;
+}
+
+
+
+#homepage-intro-container {
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1% 2.5% 1% 5%;
+}
+
+#homepage-intro-about, #homepage-intro-media {
+    width: 45%;
+}
+
+.intro-headings {
+    padding: 5% 0 2% 0;
+}
+
+#homepage-intro-container p {
+    padding: 2.5% 0;
+}
+
 /* Footer styles */
 footer {
     background-color: white;
