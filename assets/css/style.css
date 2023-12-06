@@ -86,9 +86,14 @@ main {
 
 h2 {
     padding-top: 1%;
-    padding-left: 8%;
+    padding-left: 7.7%;
 }
 
+#homepage-image {
+    width: 80%;
+    padding-top: 1%;
+    padding-left: 7.7%;
+}
 
 
 #homepage-intro-container {
