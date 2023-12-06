@@ -103,7 +103,8 @@ h2 {
     padding: 1% 2.5% 1% 5%;
 }
 
-#homepage-intro-about, #homepage-intro-media {
+#homepage-intro-about,
+#homepage-intro-media {
     width: 45%;
 }
 
@@ -123,18 +124,21 @@ footer {
 }
 
 /* styling width of content blocks within footer */
-#footer-social-block, #footer-music-block {
+#footer-social-block,
+#footer-music-block {
     width: 50%;
 }
 
 /*aligning headings in content blocks */
-#footer-social-block > h4, #footer-music-block > h4 {
+#footer-social-block>h4,
+#footer-music-block>h4 {
     text-align: center;
     margin-top: 5%;
 }
 
 /*aligning paragraphs in content blocks */
-#footer-social-block > p, #footer-music-block > p {
+#footer-social-block>p,
+#footer-music-block>p {
     text-align: center;
     padding: 0.5rem 0.5rem;
     min-height: 150px;
@@ -144,24 +148,26 @@ footer ul {
     list-style-type: none;
 }
 
-#footer-social-icons, #footer-music-icons {
+#footer-social-icons,
+#footer-music-icons {
     display: flex;
     justify-content: space-evenly;
     align-items: flex-end;
 }
 
-#footer-social-icons > li {
+#footer-social-icons>li {
     font-size: 150%;
     padding: 5%;
 }
 
-#footer-music-icons > li {
+#footer-music-icons>li {
     font-size: 150%;
     padding: 5% 2.5%;
 }
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+
     /* Header */
     nav {
         display: block;
@@ -175,7 +181,7 @@ footer ul {
         display: flex;
     }
 
-    #menu > li {
+    #menu>li {
         padding-left: 1rem;
     }
 
@@ -198,31 +204,33 @@ footer ul {
     /* footer */
 
     /*aligning paragraphs in content blocks */
-    #footer-social-block > p, #footer-music-block > p {
-    min-height: 75px;
+    #footer-social-block>p,
+    #footer-music-block>p {
+        min-height: 75px;
     }
 }
 
 /* Media query: desktop computers and larger (992px and up) */
 @media screen and (min-width: 992px) {
-        nav a:hover {
-            border-bottom: 1px solid #3a3a3a;
-        }
+    nav a:hover {
+        border-bottom: 1px solid #3a3a3a;
+    }
 
-        /* changing spacing around icons to reflect the increased ratios */
-        #footer-social-icons > li {
-            font-size: 150%;
-            padding: 1%;
-        }
-        
-        #footer-music-icons > li {
-            font-size: 150%;
-            padding: 1% 1% 1% 1%;
-        }
-        
-        /*aligning paragraphs in content blocks */
-    #footer-social-block > p, #footer-music-block > p {
+    /* changing spacing around icons to reflect the increased ratios */
+    #footer-social-icons>li {
+        font-size: 150%;
+        padding: 1%;
+    }
+
+    #footer-music-icons>li {
+        font-size: 150%;
+        padding: 1% 1% 1% 1%;
+    }
+
+    /*aligning paragraphs in content blocks */
+    #footer-social-block>p,
+    #footer-music-block>p {
         min-height: 53px;
-        }
+    }
 
 }
