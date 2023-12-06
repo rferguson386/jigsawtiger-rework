@@ -81,7 +81,13 @@ nav {
 main {
     /* make the main element take up surplus space in viewport to push the footer element down to the bottom */
     flex: 1 0 auto;
+    display: flex;
     margin-top: 50px;
+    width: 100%;
+    background-color: olive;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 h2 {
@@ -89,30 +95,32 @@ h2 {
     padding-left: 7.7%;
 }
 
-#homepage-image {
+.homepage-image {
     width: 80%;
     padding-top: 1%;
     padding-left: 7.7%;
+    max-width: 700px;
 }
 
 
-#homepage-intro-container {
+.homepage-intro-container {
     width: 90%;
     display: flex;
     justify-content: space-evenly;
-    padding: 1% 2.5% 1% 5%;
+    background-color: red;
 }
 
-#homepage-intro-about,
-#homepage-intro-media {
+.homepage-intro-about,
+.homepage-intro-media {
     width: 45%;
+    background-color: white;
 }
 
 .intro-headings {
     padding: 5% 0 2% 0;
 }
 
-#homepage-intro-container p {
+.homepage-intro-container p {
     padding: 2.5% 0;
 }
 
@@ -141,7 +149,6 @@ footer {
 #footer-music-block>p {
     text-align: center;
     padding: 0.5rem 0.5rem;
-    min-height: 150px;
 }
 
 footer ul {
@@ -210,6 +217,18 @@ footer ul {
     }
 }
 
+/* Media query: large phones and small tablets (663px and up) */
+@media screen and (max-width: 663px) {
+    footer {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+
 /* Media query: desktop computers and larger (992px and up) */
 @media screen and (min-width: 992px) {
     nav a:hover {
@@ -227,10 +246,5 @@ footer ul {
         padding: 1% 1% 1% 1%;
     }
 
-    /*aligning paragraphs in content blocks */
-    #footer-social-block>p,
-    #footer-music-block>p {
-        min-height: 53px;
-    }
 
 }
