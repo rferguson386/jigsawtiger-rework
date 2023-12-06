@@ -1,5 +1,4 @@
 /* Asterisk wildcard selector to override default styles added by the browser */
-
 * {
     padding: 0;
     margin: 0;
@@ -8,7 +7,6 @@
 }
 
 /* General styles */
-
 body {
     background-color: rgb(204, 255, 255);
     min-height: 100vh;
@@ -23,7 +21,7 @@ body {
     letter-spacing: 2px;
 }
 
-/* header positioned to always be visible */
+/* header styles - header is positioned to always be visible */
 header {
     background-color: white;
     position: fixed;
@@ -79,27 +77,56 @@ nav {
     font-size: 2rem;
 }
 
+/* Main content section styles */
 main {
-    background-color: yellow;
     /* make the main element take up surplus space in viewport to push the footer element down to the bottom */
     flex: 1 0 auto;
     margin-top: 50px;
 }
 
+/* Footer styles */
 footer {
     background-color: white;
     display: flex;
     justify-content: space-evenly;
 }
 
-#footer-social-icons, #footer-music-icons {
-    display: flex;
-    justify-content: space-evenly;
+/* styling width of content blocks within footer */
+#footer-social-block, #footer-music-block {
+    width: 50%;
+}
+
+/*aligning headings in content blocks */
+#footer-social-block > h4, #footer-music-block > h4 {
     text-align: center;
+    margin-top: 5%;
+}
+
+/*aligning paragraphs in content blocks */
+#footer-social-block > p, #footer-music-block > p {
+    text-align: center;
+    padding: 0.5rem 0.5rem;
+    min-height: 150px;
 }
 
 footer ul {
     list-style-type: none;
+}
+
+#footer-social-icons, #footer-music-icons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+#footer-social-icons > li {
+    font-size: 150%;
+    padding: 5%;
+}
+
+#footer-music-icons > li {
+    font-size: 150%;
+    padding: 5% 2.5%;
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -136,6 +163,13 @@ footer ul {
         /* Push main content down to accommodate larger header */
         margin-top: 75px;
     }
+
+    /* footer */
+
+    /*aligning paragraphs in content blocks */
+    #footer-social-block > p, #footer-music-block > p {
+    min-height: 75px;
+    }
 }
 
 /* Media query: desktop computers and larger (992px and up) */
@@ -143,4 +177,21 @@ footer ul {
         nav a:hover {
             border-bottom: 1px solid #3a3a3a;
         }
+
+        /* changing spacing around icons to reflect the increased ratios */
+        #footer-social-icons > li {
+            font-size: 150%;
+            padding: 1%;
+        }
+        
+        #footer-music-icons > li {
+            font-size: 150%;
+            padding: 1% 1% 1% 1%;
+        }
+        
+        /*aligning paragraphs in content blocks */
+    #footer-social-block > p, #footer-music-block > p {
+        min-height: 53px;
+        }
+
 }
