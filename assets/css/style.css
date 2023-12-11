@@ -218,11 +218,13 @@ td {
 }
 
 thead {
-    text-transform: uppercase;
+    background-color: #324B4B;
+    color: white;
 }
 
 td {
     padding: 0.75rem;
+    background-color: #FCFCD4;
 }
 
 /* Footer styles */
