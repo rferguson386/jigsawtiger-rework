@@ -219,7 +219,7 @@ footer ul {
     /*aligning paragraphs in content blocks */
     #footer-social-block>p,
     #footer-music-block>p {
-        min-height: 75px;
+        min-height: 3.5rem;
     }
 }
 
