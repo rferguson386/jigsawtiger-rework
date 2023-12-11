@@ -96,7 +96,7 @@ h2.top-of-page {
     text-align: center;
 }
 
-
+/*Homepage main content specific styles */
 
 .homepage-image {
     width: 80%;
@@ -128,6 +128,14 @@ h2.top-of-page {
 
 .media-quotes {
     font-style: italic;
+}
+
+/*Music page main content specific styles */
+
+.musicpage-bones-image {
+    width: 30%;
+    padding: 1% 0 1.5% 0;
+    max-width: 500px;
 }
 
 /* Footer styles */
