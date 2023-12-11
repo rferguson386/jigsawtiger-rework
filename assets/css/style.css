@@ -351,6 +351,10 @@ footer ul {
         width: 100%;
     }
 
+    .tour-main {
+        margin-bottom: 12.5%;
+    }
+
 }
 
 /* Media query: to make sure embedded videos look good on tablet and phone devices */
