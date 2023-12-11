@@ -89,15 +89,17 @@ main {
     justify-content: center;
 }
 
-h2 {
+h2.top-of-page {
     padding-top: 1%;
-    padding-left: 7.7%;
+    width: 65%;
+    text-align: center;
 }
+
+
 
 .homepage-image {
     width: 80%;
     padding-top: 1%;
-    padding-left: 7.7%;
     max-width: 700px;
 }
 
@@ -121,6 +123,10 @@ h2 {
 
 .homepage-intro-container p {
     padding: 2.5% 0;
+}
+
+.media-quotes {
+    font-style: italic;
 }
 
 /* Footer styles */
