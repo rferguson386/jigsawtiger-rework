@@ -13,6 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Raleway', sans-serif;
+    letter-spacing: 1px;
 }
 
 /* H1 logo which functions as link back to home page in nav */
@@ -135,6 +136,7 @@ footer {
     display: flex;
     justify-content: space-evenly;
     width: 100%;
+    letter-spacing: 0.5px;
 }
 
 /* styling width of content blocks within footer */
