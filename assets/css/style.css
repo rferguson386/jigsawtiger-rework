@@ -207,6 +207,10 @@ h2.top-of-page {
     padding: 1% 0;
 }
 
+.tour-image {
+    width: 75%;
+}
+
 table,
 th,
 td {
@@ -322,6 +326,25 @@ footer ul {
     }
 }
 
+/* Media query: to make bones section readable on smaller devices */
+
+@media screen and (max-width: 599px) {
+    .bones-container {
+        flex-direction: column;
+    }
+
+    .bones-text-container {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .musicpage-bones-image {
+        width: 80%;
+        max-width: 500px;
+        align-self: center;
+    }
+}
+
 /* Media query: large phones and small tablets (633px and below) */
 @media screen and (max-width: 633px) {
     footer {
@@ -371,24 +394,6 @@ footer ul {
 
 }
 
-/* Media query: to make bones section readable on smaller devices */
-
-@media screen and (max-width: 599px) {
-    .bones-container {
-        flex-direction: column;
-    }
-
-    .bones-text-container {
-        flex-direction: column;
-        width: 100%;
-    }
-
-    .musicpage-bones-image {
-        width: 80%;
-        max-width: 500px;
-        align-self: center;
-    }
-}
 
 /* Media query: desktop computers and larger (992px and up) */
 @media screen and (min-width: 992px) {
@@ -407,5 +412,10 @@ footer ul {
         padding: 1% 1% 1% 1%;
     }
 
+    /* changing tour image height on page */
+    .tour-image {
+        max-height: 430px;
+        width: auto;
+    }
 
 }
