@@ -231,6 +231,18 @@ td {
     background-color: #FCFCD4;
 }
 
+/* Contact page main content specific styles */
+
+#signup {
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-input {
+    width: 100%;
+}
+
 /* Footer styles */
 footer {
     background-color: white;
