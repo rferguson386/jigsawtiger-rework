@@ -281,6 +281,61 @@ footer ul {
     padding: 5% 2.5%;
 }
 
+/* Media query: smallest devices (599 px and below) */
+@media screen and (max-width: 599px) {
+    /* make bones section readable on smaller devices */
+
+    .bones-container {
+        flex-direction: column;
+    }
+
+    .bones-text-container {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .musicpage-bones-image {
+        width: 80%;
+        max-width: 500px;
+        align-self: center;
+    }
+}
+
+/* Media query: large phones and small tablets (693px and below) */
+@media screen and (max-width: 693px) {
+    footer {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #footer-social-block,
+    #footer-music-block {
+        width: 100%;
+    }
+
+    .homepage-intro-container {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-top: 1rem;
+        padding-bottom: 3.5rem;
+    }
+
+    .homepage-intro-about,
+    .homepage-intro-media {
+        width: 100%;
+    }
+
+    .tour-main {
+        margin-bottom: 12.5%;
+    }
+
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
@@ -326,63 +381,10 @@ footer ul {
     }
 }
 
-/* Media query: to make bones section readable on smaller devices */
-
-@media screen and (max-width: 599px) {
-    .bones-container {
-        flex-direction: column;
-    }
-
-    .bones-text-container {
-        flex-direction: column;
-        width: 100%;
-    }
-
-    .musicpage-bones-image {
-        width: 80%;
-        max-width: 500px;
-        align-self: center;
-    }
-}
-
-/* Media query: large phones and small tablets (633px and below) */
-@media screen and (max-width: 633px) {
-    footer {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-    }
-
-    #footer-social-block,
-    #footer-music-block {
-        width: 100%;
-    }
-
-    .homepage-intro-container {
-        width: 90%;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding-top: 1rem;
-        padding-bottom: 3.5rem;
-    }
-
-    .homepage-intro-about,
-    .homepage-intro-media {
-        width: 100%;
-    }
-
-    .tour-main {
-        margin-bottom: 12.5%;
-    }
-
-}
-
-/* Media query: to make sure embedded videos look good on tablet and phone devices */
-
+/* Media query: tablet and larger phone devices */
 @media screen and (max-width: 889px) {
+
+    /* make sure embedded videos look good on tablet and phone devices */
     .video-content {
         flex-direction: column;
     }
@@ -392,8 +394,20 @@ footer ul {
         height: auto;
     }
 
+
+
 }
 
+/* Media query: desktop computers and larger (855px and up) */
+@media screen and (min-width: 855px) {
+
+    /* changing tour image height on page */
+    .tour-image {
+        max-height: 430px;
+        width: auto;
+    }
+
+}
 
 /* Media query: desktop computers and larger (992px and up) */
 @media screen and (min-width: 992px) {
@@ -410,12 +424,6 @@ footer ul {
     #footer-music-icons>li {
         font-size: 150%;
         padding: 1% 1% 1% 1%;
-    }
-
-    /* changing tour image height on page */
-    .tour-image {
-        max-height: 430px;
-        width: auto;
     }
 
 }
