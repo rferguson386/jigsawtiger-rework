@@ -50,10 +50,25 @@
         </nav>
     </header>
     <!--Main content-->
-    <main>
-        <p class="enquiry-response">Your enquiry has been submitted, thanks for getting in touch. While you are waiting
-            on a reply, why not check
-            out some more of my music <a href="music.html">here</a>.</p>
+    <main class="contact-main">
+        <section id="signup">
+            <h2 class="top-of-page">Drop me a line!</h2>
+            <img src="assets/images/thanhy-nguyen-DCg103FwjCg-unsplash.jpg" alt="image of an overflowing mailbox"
+                class="contact-image">
+            <form id="signup-form" method="GET" action="response.html">
+                <label for="name" class="signup-label">Name</label>
+                <input type="text" name="name" id="name" class="form-input" required>
+                <br>
+                <label for="email" class="signup-label">Email</label>
+                <input type="email" name="email" id="email" class="form-input" required>
+                <br>
+                <label for="comments" class="signup-label">Comments/requests</label>
+                <textarea name="comments" id="comments" class="text-area-input"
+                    placeholder="Add any comments or requests you have in this section!"></textarea>
+                <br>
+                <button type="submit" class="submit-button">Submit</button>
+            </form>
+        </section>
     </main>
     <!--Footer section-->
     <footer>
