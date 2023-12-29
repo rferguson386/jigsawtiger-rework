@@ -234,14 +234,28 @@ td {
 /* Contact page main content specific styles */
 
 #signup {
-    width: 90%;
+    width: 100%;
     display: flex;
     flex-direction: column;
+    align-items: center;
+}
+
+#signup h2 {
+    text-align: center;
+}
+
+#signup-form {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
 }
 
 .form-input {
-    width: 100%;
+    width: 80%;
 }
+
 
 /* Footer styles */
 footer {
