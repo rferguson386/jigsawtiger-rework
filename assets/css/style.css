@@ -90,6 +90,10 @@ main {
     justify-content: center;
 }
 
+h2 {
+    font-size: 2.5rem;
+}
+
 h2.top-of-page {
     padding: 1.5% 0;
     width: 65%;
@@ -199,7 +203,8 @@ h2.top-of-page {
 
 /* Tour page main content specific styles */
 
-.tour-main {
+.tour-main,
+.contact-main {
     justify-content: flex-start;
 }
 
@@ -207,8 +212,10 @@ h2.top-of-page {
     padding: 1% 0;
 }
 
-.tour-image {
-    width: 75%;
+.tour-image,
+.contact-image {
+    max-height: 430px;
+    width: auto;
 }
 
 table,
@@ -238,11 +245,10 @@ td {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: flex-start;
 }
 
-#signup h2 {
-    text-align: center;
-}
+
 
 #signup-form {
     width: 80%;
@@ -250,10 +256,27 @@ td {
     flex-direction: column;
     align-items: flex-start;
     justify-content: flex-start;
+    margin: 1.5rem 0;
 }
 
 .form-input {
     width: 80%;
+    height: 2rem;
+}
+
+.text-area-input {
+    width: 80%;
+    height: 12rem;
+}
+
+.signup-label {
+    height: 2rem;
+    font-size: 1.25rem;
+}
+
+.submit-button {
+    height: 2rem;
+    width: 4rem;
 }
 
 
@@ -325,6 +348,13 @@ footer ul {
         max-width: 500px;
         align-self: center;
     }
+
+    /* changing tour image height on page */
+    .tour-image,
+    .contact-image {
+        max-width: 300px;
+        height: auto;
+    }
 }
 
 /* Media query: large phones and small tablets (693px and below) */
@@ -354,6 +384,14 @@ footer ul {
     .homepage-intro-about,
     .homepage-intro-media {
         width: 100%;
+    }
+
+
+    /* changing tour image height on page */
+    .tour-image,
+    .contact-image {
+        max-height: 250px;
+        width: auto;
     }
 
 }
@@ -416,20 +454,8 @@ footer ul {
         height: auto;
     }
 
-
-
 }
 
-/* Media query: desktop computers and larger (855px and up) */
-@media screen and (min-width: 855px) {
-
-    /* changing tour image height on page */
-    .tour-image {
-        max-height: 430px;
-        width: auto;
-    }
-
-}
 
 /* Media query: desktop computers and larger (992px and up) */
 @media screen and (min-width: 992px) {
