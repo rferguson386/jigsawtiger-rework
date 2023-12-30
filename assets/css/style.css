@@ -208,13 +208,21 @@ h2.top-of-page {
     justify-content: flex-start;
 }
 
+#tour-info {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .tour-page-content-text {
     padding: 1% 0;
 }
 
 .tour-image {
-    max-height: 430px;
-    width: auto;
+    width: 100%;
+    height: auto;
+    max-width: 950px;
 }
 
 table,
@@ -356,11 +364,6 @@ footer ul {
         align-self: center;
     }
 
-    /* changing tour image height on page */
-    .tour-image {
-        max-width: 300px;
-        height: auto;
-    }
 }
 
 /* Media query: large phones and small tablets (693px and below) */
@@ -390,13 +393,6 @@ footer ul {
     .homepage-intro-about,
     .homepage-intro-media {
         width: 100%;
-    }
-
-
-    /* changing tour image height on page */
-    .tour-image {
-        max-height: 250px;
-        width: auto;
     }
 
 }
