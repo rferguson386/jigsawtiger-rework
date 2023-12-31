@@ -222,7 +222,6 @@ h2.top-of-page {
 .tour-image {
     width: 100%;
     height: auto;
-    max-width: 950px;
 }
 
 table,
@@ -265,12 +264,12 @@ td {
 }
 
 .form-input {
-    width: 80%;
+    width: 100%;
     height: 2rem;
 }
 
 .text-area-input {
-    width: 80%;
+    width: 100%;
     height: 12rem;
 }
 
