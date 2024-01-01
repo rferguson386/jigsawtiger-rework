@@ -198,9 +198,10 @@ h2.top-of-page {
 }
 
 .youtube-embed {
-    width: auto;
-    height: 220px;
-    padding: 2.5% 0;
+    width: 40%;
+    height: auto;
+    min-height: 200px;
+    margin: 2.5% 0;
     border: none;
 }
 
