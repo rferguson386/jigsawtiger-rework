@@ -382,6 +382,8 @@ footer ul {
 
 /* Media query: large phones and small tablets (693px and below) */
 @media screen and (max-width: 693px) {
+
+    /* Make footer one column on smaller devices */
     footer {
         width: 100%;
         display: flex;
@@ -492,12 +494,12 @@ footer ul {
     /* changing spacing around icons to reflect the increased ratios */
     #footer-social-icons>li {
         font-size: 150%;
-        padding: 1%;
+        padding: 3%;
     }
 
     #footer-music-icons>li {
         font-size: 150%;
-        padding: 1% 1% 1% 1%;
+        padding: 3%;
     }
 
 }
