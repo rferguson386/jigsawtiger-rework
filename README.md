@@ -6,7 +6,7 @@ Jigsawtiger is a website for (my friend) the Glasgow music producer, singer and 
  - Long-term fans of Jigsawtiger who want to quickly find her latest releases or DJ sets, and see when she is touring
  - Music promoters who would like to have a convenient way to get in touch with Jigsawtiger about booking her for a show.
 
-![Responsice Mockup]( URL FOR RESPONSIVE MOCKUP HERE)
+![Responsive Mockup](https://github.com/rferguson386/jigsawtiger-rework/blob/ffe873a61ae0931d68a96ae697bfe9b395db856e/documentation/Jigsawtiger.png)
 
 ## Features 
 
@@ -19,7 +19,7 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all pages of the, the full responsive navigation bar includes a logo on the left hand side of the screen (this logo is also a link to the home page of the site), Home page link, Music page link, Tour page link and Contact page link. The navigation is fully responsive with the links being collapsed into a toggle-able menu on devices below 768px.
 
 
-![Nav Bar](LINK TO SCREENSHOT HERE)
+![Nav Bar](https://github.com/rferguson386/jigsawtiger-rework/blob/ffe873a61ae0931d68a96ae697bfe9b395db856e/documentation/Navbar.png)
 
 - __The home page__
 
