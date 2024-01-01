@@ -219,7 +219,8 @@ h2.top-of-page {
     align-items: center;
 }
 
-.tour-page-content-text {
+.tour-page-content-text,
+.contact-page-content-text {
     padding: 1% 0;
 }
 
