@@ -8,24 +8,33 @@ In order to confirm the correct functionality and appearance of the site, it was
   - Chrome:
 
   ![Homepage](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_homepage.png)
+
   ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_musicpage.png)
+
   ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_tourpage.png)
+
   ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_contactpage.png)
 
   - FireFox:
 
-  ![Homepage](LINK TO VIDEO HERE)
-  ![Music page](LINK TO VIDEO HERE)
-  ![Tour page](LINK TO VIDEO HERE)
-  ![Contact page](LINK TO VIDEO HERE)
+  ![Homepage](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/firefox_test_homepage.png)
+
+  ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/firefox_test_musicpage.png)
+
+  ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/firefox_test_tourpage.png)
+
+  ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/firefox_test_contactpage.png)
 
 
   - Safari:
 
-  ![Homepage](LINK TO VIDEO HERE)
-  ![Music page](LINK TO VIDEO HERE)
-  ![Tour page](LINK TO VIDEO HERE)
-  ![Contact page](LINK TO VIDEO HERE)
+  ![Homepage](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_homepage.pdf)
+
+  ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_musicpage.pdf)
+
+  ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_tourpage.pdf)
+
+  ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_contactpage.pdf)
 
 
 ## Responsiveness
