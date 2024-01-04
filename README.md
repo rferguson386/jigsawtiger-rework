@@ -1,12 +1,13 @@
 # Jigsawtiger
 
-Jigsawtiger is a website for (my friend) the Glasgow music producer, singer and DJ, Jigsawtiger. The site aims to give information about Jigsawtiger to three distinct groups of users:
+Jigsawtiger is a website for (my friend) the Glasgow music producer, singer and DJ, Jigsawtiger. This site is a rework of an existing website for the artist, which can be viewed via this link (https://www.jigsawtiger.com/). My version of her site uses some of the same assets but aims to present them in a responsive way for all devices, and with a colour-scheme which is better for accessibility. The site aims to give information about Jigsawtiger to three distinct groups of users:
 
  - People who have just discovered Jigsawtiger and want to hear more of her music or find out more about her
  - Long-term fans of Jigsawtiger who want to quickly find her latest releases or DJ sets, and see when she is touring
  - Music promoters who would like to have a convenient way to get in touch with Jigsawtiger about booking her for a show.
 
-![Responsive Mockup](https://github.com/rferguson386/jigsawtiger-rework/blob/ffe873a61ae0931d68a96ae697bfe9b395db856e/documentation/Jigsawtiger.png)
+![Responsive Mockup](https://github.com/rferguson386/jigsawtiger-rework/blob/f48461cc1ea219a6fd4e1e4d0647cc205bd5917d/documentation/Jigsawtiger.png)
+
 
 ## Features 
 
@@ -16,50 +17,51 @@ In this section, you should go over the different parts of your project, and des
 
 - __Navigation__
 
-  - Featured on all pages of the, the full responsive navigation bar includes a logo on the left hand side of the screen (this logo is also a link to the home page of the site), Home page link, Music page link, Tour page link and Contact page link. The navigation is fully responsive with the links being collapsed into a toggle-able menu on devices below 768px.
+  - Featured on all pages of the, the full responsive navigation bar includes a logo on the left-hand side of the screen (this logo is also a link to the home page of the site), Home page link, Music page link, Tour page link and Contact page link. The navigation is always present on screen, and fully responsive with the links being collapsed into a toggle-able menu on devices below 768px.
 
 
-![Nav Bar](https://github.com/rferguson386/jigsawtiger-rework/blob/ffe873a61ae0931d68a96ae697bfe9b395db856e/documentation/Navbar.png)
+![Nav Bar Collapsed](INSERT LINK TO SCREENSHOT HERE)
+
+![Nav Bar Expanded](INSERT LINK TO SCREENSHOT HERE)
 
 - __The home page__
 
-  - The home page includes information about Jigsawtiger to allow users to 
+  - The home page includes information about Jigsawtiger to allow users to find out more about the artist. At the bottom of the "about" section, there are links to keep the user journey going without requiring them to find the links in the nav bar. It also includes quotes from media outlets about Jigsawtiger.
   
 ![Home Page](LINK TO SCREENSHOT HERE)
 
-- __Club Ethos Section__
+- __The music page__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The music page is split into two sections, one for displaying links and embedded media relating to music that Jigsawtiger has recorded or DJ sets she has uploaded, and one for embedded music videos and videos of DJ sets.
+  - This section will help new users get an idea of what Jigsawtiger sounds like, and be a hub for existing fans to find all of her latest music. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Music page](LINK TO MUSIC PAGE SCREENSHOT HERE)
 
-- __Meetup Times section__
+- __The tour page__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section will allow users to find information about when and where Jigsawtiger is touring. Each tour date listing contains links to the venue to allow the user to buy tickets.
+  - This section will be updated as and when more tours are announced, or when dates have passed.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![The tour page](LINK TO TOUR PAGE SCREENSHOT HERE)
 
-- __The Footer__ 
+- __The contact page__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The contact page includes a form with 3 fields for users to send a message to Jigsawtiger. The name and email fields are required fields.
+  - The top of the page features suggestions of instances/reasons why users might want to get in touch with Jigsawtiger.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![The contact page](LINK TO CONTACT PAGE SCREENSHOT HERE)
 
-- __Gallery__
+- __The response page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - Users are directed to a page reponse.html after submitting the form. The page displays a thank-you message acknowledging receipt of their enquiry, and a link back to the music page to continue interacting with the site.
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![The response page](LINK TO RESPONSE PAGE SCREENSHOT HERE)
 
-- __The Sign Up Page__
+- __The Footer__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The footer section is uniform on every page, with relevant outbound links categorised into two sections, social profiles, and music. Each of the links opens up the target webpage in a new browser tab
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![The Footer](LINK TO THE FOOTER SCREENSHOT HERE)
 
 For some/all of your features, you may choose to reference the specific project files that implement them.
 
@@ -67,7 +69,7 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Features Left to Implement
 
-- Another feature idea
+- Fully functioning contact form which directs enquiries to an SQL database and generates email notifications
 
 ## Testing 
 
