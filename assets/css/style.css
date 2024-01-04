@@ -350,8 +350,8 @@ footer {
 }
 
 /*aligning headings in content blocks */
-#footer-social-block>h4,
-#footer-music-block>h4 {
+#footer-social-block>h3,
+#footer-music-block>h3 {
     text-align: center;
     margin-top: 5%;
 }
