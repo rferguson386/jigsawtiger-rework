@@ -3,57 +3,55 @@
 
 ## Compatibility
 
-In order to confirm the correct functionality and appearance of the site, it was tested on the following browsers: Chrome, Firefox, Edge and Safari. The links for each browser show the website is displaying correctly and all features are working as intended.
+In order to confirm the correct functionality and appearance of the site, it was tested on the following browsers: Chrome, Firefox and Safari. The links for each browser show the website is displaying correctly and all features described in the readme are present.
 
   - Chrome:
 
-  ![Chrome](LINK TO VIDEO HERE)
-
-  - Edge:
-
-  ![Edge](LINK TO VIDEO HERE)
+  ![Homepage](LINK TO VIDEO HERE)
+  ![Music page](LINK TO VIDEO HERE)
+  ![Tour page](LINK TO VIDEO HERE)
+  ![Contact page](LINK TO VIDEO HERE)
 
   - FireFox:
 
-  ![FireFox](LINK TO VIDEO HERE)
+  ![Homepage](LINK TO VIDEO HERE)
+  ![Music page](LINK TO VIDEO HERE)
+  ![Tour page](LINK TO VIDEO HERE)
+  ![Contact page](LINK TO VIDEO HERE)
+
 
   - Safari:
 
-  ![Safari](Link to video here)
+  ![Homepage](LINK TO VIDEO HERE)
+  ![Music page](LINK TO VIDEO HERE)
+  ![Tour page](LINK TO VIDEO HERE)
+  ![Contact page](LINK TO VIDEO HERE)
+
 
 ## Responsiveness
 
 
-+ The website was checked by devtools implemented in Firefox and Chrome browsers.
++ The website was checked via the Responsive viewer chrome extension.
 
     - Main Page:
 
     ![Chrome](INSERT LINK HERE)
-    ![Firefox](INSERT LINK HERE)
 
     - Music Page:
 
     ![Chrome](INSERT LINK HERE)
-    ![Firefox](INSERT LINK HERE)
 
     - Tour Page:
 
     ![Chrome](INSERT LINK HERE)
-    ![Firefox](INSERT LINK HERE)
 
     - Contact Page:
 
     ![Chrome](INSERT LINK HERE)
-    ![Firefox](INSERT LINK HERE)
 
     - Response Page:
 
     ![Chrome](INSERT LINK HERE)
-    ![Firefox](INSERT LINK HERE)
-
-+ The website was also checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/). A video showing the website displaying responsively across a range of different desktop, tablet and mobile device screen sizes is below.
-
-    ![Responsive test](LINK TO VIDEO HERE)
   
 
 ---
