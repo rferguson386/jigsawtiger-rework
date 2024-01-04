@@ -8,7 +8,7 @@
 
 /* General styles */
 body {
-    background-color: rgb(204, 255, 255);
+    background-color: rgba(204, 255, 255, 0.51);
     min-height: 100vh;
     display: flex;
     flex-direction: column;
