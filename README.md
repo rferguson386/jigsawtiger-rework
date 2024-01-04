@@ -20,52 +20,57 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all pages of the, the full responsive navigation bar includes a logo on the left-hand side of the screen (this logo is also a link to the home page of the site), Home page link, Music page link, Tour page link and Contact page link. The navigation is always present on screen, and fully responsive with the links being collapsed into a toggle-able menu on devices below 768px.
 
 
-![Nav Bar Collapsed](INSERT LINK TO SCREENSHOT HERE)
+![Nav Bar Collapsed](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Navbar_collapsed.png)
 
-![Nav Bar Expanded](INSERT LINK TO SCREENSHOT HERE)
+![Nav Bar Expanded](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Navbar_expanded.png)
 
 - __The home page__
 
   - The home page includes information about Jigsawtiger to allow users to find out more about the artist. At the bottom of the "about" section, there are links to keep the user journey going without requiring them to find the links in the nav bar. It also includes quotes from media outlets about Jigsawtiger.
   
-![Home Page](LINK TO SCREENSHOT HERE)
+![Home Page screenshot 1](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Homepage_1.png)
+
+![Home Page screenshot 2](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Homepage_2.png)
 
 - __The music page__
 
   - The music page is split into two sections, one for displaying links and embedded media relating to music that Jigsawtiger has recorded or DJ sets she has uploaded, and one for embedded music videos and videos of DJ sets.
   - This section will help new users get an idea of what Jigsawtiger sounds like, and be a hub for existing fans to find all of her latest music. 
 
-![Music page](LINK TO MUSIC PAGE SCREENSHOT HERE)
+![Music page screenshot 1](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Music_page_1.png)
+
+![Music page screenshot 2](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Music_page_2.png)
 
 - __The tour page__
 
   - This section will allow users to find information about when and where Jigsawtiger is touring. Each tour date listing contains links to the venue to allow the user to buy tickets.
   - This section will be updated as and when more tours are announced, or when dates have passed.
 
-![The tour page](LINK TO TOUR PAGE SCREENSHOT HERE)
+![The tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Tour_page.png)
 
 - __The contact page__ 
 
   - The contact page includes a form with 3 fields for users to send a message to Jigsawtiger. The name and email fields are required fields.
   - The top of the page features suggestions of instances/reasons why users might want to get in touch with Jigsawtiger.
 
-![The contact page](LINK TO CONTACT PAGE SCREENSHOT HERE)
+![The contact page screenshot 1](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Contact_page_1.png)
+
+![The contact page screenshot 2](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Contact_page_2.png)
 
 - __The response page__
 
   - Users are directed to a page reponse.html after submitting the form. The page displays a thank-you message acknowledging receipt of their enquiry, and a link back to the music page to continue interacting with the site.
 
-![The response page](LINK TO RESPONSE PAGE SCREENSHOT HERE)
+![The response page](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Response_page.png)
 
 - __The Footer__
 
   - The footer section is uniform on every page, with relevant outbound links categorised into two sections, social profiles, and music. Each of the links opens up the target webpage in a new browser tab
 
-![The Footer](LINK TO THE FOOTER SCREENSHOT HERE)
+![The Footer one column](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Footer_one_column.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+![The Footer two columns](https://github.com/rferguson386/jigsawtiger-rework/blob/311ed1bab70de2d605135aa1b537a09e068f55c4/documentation/Footer_two_columns.png)
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
