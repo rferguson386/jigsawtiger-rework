@@ -103,19 +103,19 @@ In order to confirm the correct functionality and appearance of the site, it was
     
   ### Home page
 
-  ![Home Page Lighthouse](INSERT SCREENSHOT HERE)
+  ![Home Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/homepage_lighthouse.png)
 
   ### Music page
 
-  ![Music Page Lighthouse](INSERT SCREENSHOT HERE)
+  ![Music Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/music_lighthouse.png)
 
   ### Tour page
 
-  ![Tour Page Lighthouse](INSERT SCREENSHOT HERE)
+  ![Tour Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/tour_lighthouse.png)
 
   ### Contact page
 
-  ![Contact Page Lighthouse](INSERT SCREENSHOT HERE)
+  ![Contact Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/tour_lighthouse.png)
 
   ### Response page
 
