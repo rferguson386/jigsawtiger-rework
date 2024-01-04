@@ -7,32 +7,56 @@ In order to confirm the correct functionality and appearance of the site, it was
 
   - Chrome:
 
+    - Homepage:
+
   ![Homepage](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_homepage.png)
+
+    - Music page:
 
   ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_musicpage.png)
 
+    - Tour page:
+
   ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_tourpage.png)
+
+    - Contact page:
 
   ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_contactpage.png)
 
   - FireFox:
 
+    - Homepage:
+
   ![Homepage](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/firefox_test_homepage.png)
+
+    - Music page:
 
   ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/firefox_test_musicpage.png)
 
+    - Tour page:
+
   ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/firefox_test_tourpage.png)
+
+    - Contact page:
 
   ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/firefox_test_contactpage.png)
 
 
   - Safari:
 
+    - Homepage:
+
   ![Homepage](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_homepage.pdf)
+
+    - Music page:
 
   ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_musicpage.pdf)
 
+    - Tour page:
+
   ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_tourpage.pdf)
+
+    - Contact page:
 
   ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_contactpage.pdf)
 
@@ -103,23 +127,23 @@ In order to confirm the correct functionality and appearance of the site, it was
     
   ### Home page
 
-  ![Home Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/homepage_lighthouse.png)
+  ![Home Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/ad2edf066782df5602ffb1fea2d0180613ca59fc/documentation/images/homepage_lighthouse.png)
 
   ### Music page
 
-  ![Music Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/music_lighthouse.png)
+  ![Music Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/ad2edf066782df5602ffb1fea2d0180613ca59fc/documentation/images/music_lighthouse.png)
 
   ### Tour page
 
-  ![Tour Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/tour_lighthouse.png)
+  ![Tour Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/ad2edf066782df5602ffb1fea2d0180613ca59fc/documentation/images/tour_lighthouse.png)
 
   ### Contact page
 
-  ![Contact Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/tour_lighthouse.png)
+  ![Contact Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/ad2edf066782df5602ffb1fea2d0180613ca59fc/documentation/images/contact_lighthouse.png)
 
   ### Response page
 
-  ![Response Page Lighthouse](INSERT SCREENSHOT HERE)
+  ![Response Page Lighthouse](https://github.com/rferguson386/jigsawtiger-rework/blob/ad2edf066782df5602ffb1fea2d0180613ca59fc/documentation/images/response_lighthouse.png)
 
 ---
 ​
