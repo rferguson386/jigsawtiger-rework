@@ -3,7 +3,7 @@
 
 ## Compatibility
 
-In order to confirm the correct functionality and appearance of the site, it was tested on the following browsers: Chrome, Firefox, Edge and Safari. The videos for each browser show the website is displaying correctly and all features are working as intended.
+In order to confirm the correct functionality and appearance of the site, it was tested on the following browsers: Chrome, Firefox, Edge and Safari. The links for each browser show the website is displaying correctly and all features are working as intended.
 
   - Chrome:
 
