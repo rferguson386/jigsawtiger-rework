@@ -7,10 +7,10 @@ In order to confirm the correct functionality and appearance of the site, it was
 
   - Chrome:
 
-  ![Homepage](LINK TO VIDEO HERE)
-  ![Music page](LINK TO VIDEO HERE)
-  ![Tour page](LINK TO VIDEO HERE)
-  ![Contact page](LINK TO VIDEO HERE)
+  ![Homepage](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_homepage.png)
+  ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_musicpage.png)
+  ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_tourpage.png)
+  ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/c3d6fe85625f280974a26ad66edb46e9bcc557f9/documentation/images/chrome_test_contactpage.png)
 
   - FireFox:
 
