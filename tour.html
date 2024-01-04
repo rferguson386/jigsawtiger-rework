@@ -27,7 +27,7 @@
 <body>
     <!--Header-->
     <header>
-        <a href="index.html">
+        <a aria-label="Link to visit the homepage" href="index.html">
             <h1 id="logo">Jigsawtiger</h1>
         </a>
         <input type="checkbox" name="nav-toggle" id="nav-toggle">
@@ -54,7 +54,7 @@
         <section id="tour-info">
             <h2 class="top-of-page">Tour</h2>
             <p class="tour-page-content-text">You can find me on tour at the following venues, see you soon!</p>
-            <img src="assets/images/jonathan-borba-LR5O79shvro-unsplash.jpg" alt="image of a tour bus driving"
+            <img src="assets/images/tour-page-image-compressed.jpg" alt="image of a tour bus driving"
                 class="tour-image">
             <div class="tour-table-container">
                 <table class="tour-table">
@@ -72,7 +72,7 @@
                             <td>La Belle Angele</td>
                             <td>07/02/2024</td>
                             <td>
-                                <a href="https://la-belleangele.com/" target="_blank" rel="noopener"
+                                <a class="media-links" href="https://la-belleangele.com/" target="_blank" rel="noopener"
                                     aria-label="Link to buy tickets from the La Belle Angele website">Book Now</a>
                             </td>
                         </tr>
@@ -81,8 +81,8 @@
                             <td>Stereo</td>
                             <td>07/03/2024</td>
                             <td>
-                                <a href="https://www.stereocafebar.com/" target="_blank" rel="noopener"
-                                    aria-label="Link to buy tickets from the Stereo website">Book Now</a>
+                                <a class="media-links" href="https://www.stereocafebar.com/" target="_blank"
+                                    rel="noopener" aria-label="Link to buy tickets from the Stereo website">Book Now</a>
                             </td>
                         </tr>
                         <tr>
@@ -90,7 +90,8 @@
                             <td>SWG3 Poetry Club</td>
                             <td>10/03/2024</td>
                             <td>
-                                <a href="https://swg3.tv/our-spaces/the-poetry-club/" target="_blank" rel="noopener"
+                                <a class="media-links" href="https://swg3.tv/our-spaces/the-poetry-club/"
+                                    target="_blank" rel="noopener"
                                     aria-label="Link to buy tickets from the SWG3 website">Book Now</a>
                             </td>
                         </tr>
@@ -108,12 +109,18 @@
             <h4>Social</h4>
             <p>Follow me on Facebook and Instagram for all the latest news about what I am up to!</p>
             <ul id="footer-social-icons">
-                <li><a href="https://www.facebook.com/jigsawtiger/" target="_blank" rel="noopener"
-                        aria-label="Visit my Facebook page (opens in a new tab)"><i
-                            class="fa-brands fa-facebook"></i></a></li>
-                <li><a href="https://www.instagram.com/jigsawtiger/" target="_blank" rel="noopener"
-                        aria-label="Visit my Instagram page (opens in a new tab)"><i
-                            class="fa-brands fa-instagram"></i></a></li>
+                <li>
+                    <a href="https://www.facebook.com/jigsawtiger/" target="_blank" rel="noopener"
+                        aria-label="Visit my Facebook page (opens in a new tab)">
+                        <i class="fa-brands fa-facebook"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.instagram.com/jigsawtiger/" target="_blank" rel="noopener"
+                        aria-label="Visit my Instagram page (opens in a new tab)">
+                        <i class="fa-brands fa-instagram"></i>
+                    </a>
+                </li>
             </ul>
         </div>
         <!--Div to hold the footer music content-->
@@ -121,18 +128,30 @@
             <h4>Music</h4>
             <p>You can listen to my own music and DJ sets via the links below.</p>
             <ul id="footer-music-icons">
-                <li><a href="https://jigsawtiger.bandcamp.com/track/bones" target="_blank" rel="noopener"
-                        aria-label="Visit my Bandcamp page (opens in a new tab)"><i
-                            class="fa-brands fa-bandcamp"></i></a></li>
-                <li><a href="https://open.spotify.com/artist/7rSEoR8ubJTF2iiPCSofIW?si=_guVNj-rSA697qtfDy50Rg"
-                        target="_blank" rel="noopener" aria-label="Visit my Spotify page (opens in a new tab)"><i
-                            class="fa-brands fa-spotify"></i></a></li>
-                <li><a href="https://soundcloud.com/jigsawtiger" target="_blank" rel="noopener"
-                        aria-label="Visit my Soundcloud page (opens in a new browser)"><i
-                            class="fa-brands fa-soundcloud"></i></a></li>
-                <li><a href="https://www.youtube.com/channel/UCsmiScVnA5GBCaLMEm8ZroQ" target="_blank" rel="noopener"
-                        aria-label="Visit my YouTube page (opens in a new window)"><i
-                            class="fa-brands fa-youtube"></i></a></li>
+                <li>
+                    <a href="https://jigsawtiger.bandcamp.com/track/bones" target="_blank" rel="noopener"
+                        aria-label="Visit my Bandcamp page (opens in a new tab)">
+                        <i class="fa-brands fa-bandcamp"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://open.spotify.com/artist/7rSEoR8ubJTF2iiPCSofIW?si=_guVNj-rSA697qtfDy50Rg"
+                        target="_blank" rel="noopener" aria-label="Visit my Spotify page (opens in a new tab)">
+                        <i class="fa-brands fa-spotify"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://soundcloud.com/jigsawtiger" target="_blank" rel="noopener"
+                        aria-label="Visit my Soundcloud page (opens in a new browser)">
+                        <i class="fa-brands fa-soundcloud"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.youtube.com/channel/UCsmiScVnA5GBCaLMEm8ZroQ" target="_blank" rel="noopener"
+                        aria-label="Visit my YouTube page (opens in a new window)">
+                        <i class="fa-brands fa-youtube"></i>
+                    </a>
+                </li>
             </ul>
         </div>
     </footer>
