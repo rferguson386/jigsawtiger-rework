@@ -18,7 +18,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #4B5151;
+    color: #4e4505;
 }
 
 a:hover {
@@ -27,7 +27,7 @@ a:hover {
 
 a.media-links {
     text-decoration: underline;
-    color: #319070;
+    color: #4e4505;
 }
 
 a.media-links:hover {

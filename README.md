@@ -90,7 +90,7 @@ In this section, you should go over the different parts of your project, and des
 
 - I chose a light blue color (rgba(204, 255, 255, 0.51)) as the main background color for the website so that it would be easier to make all of the links and embedded elements.
 
-- For the tour table, I used a light yellow color (#FCFCD4) to stand out against the blue, but also be light enough so that the links would contrast well with the color.
+- For the tour table, I used a light yellow color (#FCFCD4) to stand out against the blue, but also be light enough so that the links would contrast well with the color. When I ran a lighthouse report this choice scored less than optimally for contrast, so I changed to (#4e4505)
 
 - I used a medium green color (#319070) to make the media links stand out from the background
 

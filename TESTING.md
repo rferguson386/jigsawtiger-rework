@@ -44,23 +44,23 @@ In order to confirm the correct functionality and appearance of the site, it was
 
     - Main Page:
 
-    ![Chrome](INSERT LINK HERE)
+    ![Main page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/homepage_responsive_screenshot.png)
 
     - Music Page:
 
-    ![Chrome](INSERT LINK HERE)
+    ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/musicpage_responsive_screenshot.png)
 
     - Tour Page:
 
-    ![Chrome](INSERT LINK HERE)
+    ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/tourpage_responsive_screenshot.png)
 
     - Contact Page:
 
-    ![Chrome](INSERT LINK HERE)
+    ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/contactpage_responsive_screenshot.png)
 
     - Response Page:
 
-    ![Chrome](INSERT LINK HERE)
+    ![Response page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/reponsepage_responsive_screenshot.png)
   
 
 ---
@@ -69,32 +69,32 @@ In order to confirm the correct functionality and appearance of the site, it was
   #### Home Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Home Page HTML Validator](INSERT LINK HERE)
+    ![Home Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Findex.html)
     
   #### Music Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Music Page HTML Validator](INSERT LINK HERE)
+    ![Music Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Fmusic.html)
 
   #### Tour Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Tour Page HTML Validator](INSERT LINK HERE)
+    ![Tour Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Ftour.html)
 
   #### Contact Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Contact Page HTML Validator](INSERT LINK HERE)
+    ![Contact Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Fcontact.html)
 
     #### Response Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Response Page HTML Validator](INSERT LINK HERE)
+    ![Response Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Fresponse.html)
     
 + ### CSS
   No errors or warnings were found when passing through the official W3C (Jigsaw) validator]
 
-  ![CSS Validator](INSERT SCREENSHOT HERE)
+  ![CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 
 + ## LightHouse report
@@ -135,17 +135,17 @@ In order to confirm the correct functionality and appearance of the site, it was
 
         This solution generated a warning in the CSS validator that the moz-appearance query is a vendor extension, but it still passed the validator with no errors.
 
-        ![Warning image](INSERT SCREENSHOT LINK HERE)
+    3. My text area box on the form was able to manipulated by the user, so I had to fix this so it was not expandable or contractable.
 
-    3. text area resize
+        *Solutions:* a css property of resize: none was added to text area element
 
-    4. contrast
    
     ---
 + ### Unsolved bugs
-    - Mention the issue of my css styles not starting with small mobile devices in mind
+    - None
 + ### Mistakes
     - I used past simple tense in commit messages due to the habit when I just started working on this project.
     - While progressing in my code I learned to use present simple tense in commit messages.
+    - I did not write the styles with mobile as the primary viewing method, but I styled with desktop first and had to implement media queries for smaller devices. If I was doing the project over again I would write the smalled device query styles as the main section of the CSS file, and have media queries only for changes to accommodate larger devices.
 
 ---
