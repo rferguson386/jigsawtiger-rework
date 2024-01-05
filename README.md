@@ -8,7 +8,7 @@ My version of her site uses some of the same assets but aims to present them in 
  - Long-term fans of Jigsawtiger who want to quickly find her latest releases or DJ sets, and see when she is touring
  - Music promoters who would like to have a convenient way to get in touch with Jigsawtiger about booking her for a show.
 
-![Responsive Mockup](documentation/jigsawtiger.png)
+![Responsive Mockup](documentation/images/jigsawtiger.png)
 
 
 ## Features 
