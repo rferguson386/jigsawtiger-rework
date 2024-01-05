@@ -1,6 +1,8 @@
 # Jigsawtiger
 
-Jigsawtiger is a website for (my friend) the Glasgow music producer, singer and DJ, Jigsawtiger. This site is a rework of an existing website for the artist, which can be viewed via this link (https://www.jigsawtiger.com/). My version of her site uses some of the same assets but aims to present them in a responsive way for all devices, and with a colour-scheme which is better for accessibility. The site aims to give information about Jigsawtiger to three distinct groups of users:
+Jigsawtiger is a website for (my friend) the Glasgow music producer, singer and DJ, Jigsawtiger. The website was created in order to make her presence on the internet more outstanding and modern as her website that does not represent her talent at this point fully. The website is viewable [here](https://www.jigsawtiger.com/). 
+
+My version of her site uses some of the same assets but aims to present them in a responsive way for all devices, and with a colour-scheme which is better for accessibility. The site aims to give information about Jigsawtiger to three distinct groups of users:
 
  - People who have just discovered Jigsawtiger and want to hear more of her music or find out more about her
  - Long-term fans of Jigsawtiger who want to quickly find her latest releases or DJ sets, and see when she is touring
@@ -109,19 +111,23 @@ In this section, you should go over the different parts of your project, and des
 
 Information about testing, validation and bugs can be found in the link below
 
-![Testing.md](TESTING.md)
+[Testing.md](TESTING.md)
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+### Deployment to Github pages:
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+Select Pages in the side navigation bar
+From the source section drop-down "Franch, select the Main Branch
+Once the Main branch has been selected, hit "Save" and the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - https://rferguson386.github.io/jigsawtiger-rework/index.html
 
+### Local Deployment
+To make a local copy, use the following command in your terminal:
+git clone https://github.com/rferguson386/jigsawtiger-rework.git
 
 ## Credits 
 
@@ -131,7 +137,7 @@ My mentor Julia Konovalova gave lots of useful advice during my project, especia
 
 ### Content 
 
-- I used the website [Favicon generator] https://favicon.io/ to generate the logo and favicon for the site
+- I used the website [Favicon generator](https://favicon.io/) to generate the logo and favicon for the site
 - The text for the homepage and music page of the site were taken directly from the [original Jigsawtiger website](https://www.jigsawtiger.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
