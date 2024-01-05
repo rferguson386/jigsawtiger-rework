@@ -55,7 +55,7 @@ My version of her site uses some of the same assets but aims to present them in 
 
 ![The contact page screenshot 1](documentation/images/contact_page_1.png)
 
-![The contact page screenshot 2](documentation/images/contact_page_2.png)
+![The contact page screenshot 2](documentation/images/contact_page_2.png)  
 
 - __The response page__
 
