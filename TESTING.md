@@ -46,19 +46,19 @@ In order to confirm the correct functionality and appearance of the site, it was
 
     - Homepage:
 
-  ![Homepage](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_homepage.pdf)
+  ![Homepage](documentation/images/safari_test_homepage.jpg)
 
     - Music page:
 
-  ![Music page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_musicpage.pdf)
+  ![Music page](documentation/images/safari_test_musicpage.jpg)
 
     - Tour page:
 
-  ![Tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_tourpage.pdf)
+  ![Tour page](documentation/images/safari_test_tourpage.jpg)
 
     - Contact page:
 
-  ![Contact page](https://github.com/rferguson386/jigsawtiger-rework/blob/5959d22cfe0cab759dc2671ced63b24254a6865f/documentation/images/safari_test_contactpage.pdf)
+  ![Contact page](documentation/images/safari_test_contactpage.jpg)
 
 
 ## Responsiveness
