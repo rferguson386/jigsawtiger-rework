@@ -132,7 +132,7 @@ git clone https://github.com/rferguson386/jigsawtiger-rework.git
 
 I took inspiration for the styles in the header section from the love running tutorial, but adapted the code for my project rather than copying it in completely.
 
-My mentor Julia Konovalova gave lots of useful advice during my project, especially to make the nav section positioned absolutely so it always shows no matter how far the user scrolls down the page. She also helped me amend my original 2-column layout that I had planned during the wireframe phase of the project.
+My mentor Julia Konovalova gave lots of useful advice during my project, especially to make the nav section positioned absolutely so it always shows no matter how far the user scrolls down the page. She also helped me amend my original 2-column layout that I had planned during the wireframe phase of the project, to a one-column version that looked better on small devices.
 
 ### Content 
 
