@@ -8,12 +8,10 @@ My version of her site uses some of the same assets but aims to present them in 
  - Long-term fans of Jigsawtiger who want to quickly find her latest releases or DJ sets, and see when she is touring
  - Music promoters who would like to have a convenient way to get in touch with Jigsawtiger about booking her for a show.
 
-![Responsive Mockup](https://github.com/rferguson386/jigsawtiger-rework/blob/f48461cc1ea219a6fd4e1e4d0647cc205bd5917d/documentation/Jigsawtiger.png)
+![Responsive Mockup](documentation/Jigsawtiger.png)
 
 
 ## Features 
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Existing Features
 
@@ -22,56 +20,56 @@ In this section, you should go over the different parts of your project, and des
   - Featured on all pages of the, the full responsive navigation bar includes a logo on the left-hand side of the screen (this logo is also a link to the home page of the site), Home page link, Music page link, Tour page link and Contact page link. The navigation is always present on screen, and fully responsive with the links being collapsed into a toggle-able menu on devices below 768px.
 
 
-![Nav Bar Collapsed](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Navbar_collapsed.png)
+![Nav Bar Collapsed](documentation/images/Navbar_collapsed.png)
 
-![Nav Bar Expanded](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Navbar_expanded.png)
+![Nav Bar Expanded](documentation/images/Navbar_expanded.png)
 
 - __The home page__
 
   - The home page includes information about Jigsawtiger to allow users to find out more about the artist. At the bottom of the "about" section, there are links to keep the user journey going without requiring them to find the links in the nav bar. It also includes quotes from media outlets about Jigsawtiger.
   
-![Home Page screenshot 1](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Homepage_1.png)
+![Home Page screenshot 1](documentation/images/Homepage_1.png)
 
-![Home Page screenshot 2](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Homepage_2.png)
+![Home Page screenshot 2](documentation/images/Homepage_2.png)
 
 - __The music page__
 
   - The music page is split into two sections, one for displaying links and embedded media relating to music that Jigsawtiger has recorded or DJ sets she has uploaded, and one for embedded music videos and videos of DJ sets.
   - This section will help new users get an idea of what Jigsawtiger sounds like, and be a hub for existing fans to find all of her latest music. 
 
-![Music page screenshot 1](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Music_page_1.png)
+![Music page screenshot 1](documentation/images/Music_page_1.png)
 
-![Music page screenshot 2](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Music_page_2.png)
+![Music page screenshot 2](documentation/images/Music_page_2.png)
 
 - __The tour page__
 
   - This section will allow users to find information about when and where Jigsawtiger is touring. Each tour date listing contains links to the venue to allow the user to buy tickets.
   - This section will be updated as and when more tours are announced, or when dates have passed.
 
-![The tour page](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Tour_page.png)
+![The tour page](documentation/images/Tour_page.png)
 
 - __The contact page__ 
 
   - The contact page includes a form with 3 fields for users to send a message to Jigsawtiger. The name and email fields are required fields.
   - The top of the page features suggestions of instances/reasons why users might want to get in touch with Jigsawtiger.
 
-![The contact page screenshot 1](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Contact_page_1.png)
+![The contact page screenshot 1](documentation/images/Contact_page_1.png)
 
-![The contact page screenshot 2](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Contact_page_2.png)
+![The contact page screenshot 2](documentation/images/Contact_page_2.png)
 
 - __The response page__
 
   - Users are directed to a page reponse.html after submitting the form. The page displays a thank-you message acknowledging receipt of their enquiry, and a link back to the music page to continue interacting with the site.
 
-![The response page](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Response_page.png)
+![The response page](documentation/images/Response_page.png)
 
 - __The Footer__
 
   - The footer section is uniform on every page, with relevant outbound links categorised into two sections, social profiles, and music. Each of the links opens up the target webpage in a new browser tab
 
-![The Footer one column](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Footer_one_column.png)
+![The Footer one column](documentation/images/Footer_one_column.png)
 
-![The Footer two columns](https://github.com/rferguson386/jigsawtiger-rework/blob/1110ed9855eee603ae97360434701fc29fb098b1/documentation/images/Footer_two_columns.png)
+![The Footer two columns](documentation/images/Footer_two_columns.png)
 
 ---
 ## Technologies Used
@@ -83,6 +81,7 @@ In this section, you should go over the different parts of your project, and des
 - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
 - [Git](https://git-scm.com/) was used for the version control of the website.
 - [GitHub](https://github.com/) was used to host the code of the website.
+- [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) was used to publish the code of the website.
 
 
 ---
