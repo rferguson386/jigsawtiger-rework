@@ -5,60 +5,60 @@
 
 In order to confirm the correct functionality and appearance of the site, it was tested on the following browsers: Chrome, Firefox and Safari. The links for each browser show the website is displaying correctly and all features described in the readme are present.
 
-  + Chrome:
++ Chrome:
 
     - Homepage:
 
-  ![Homepage](documentation/images/chrome_test_homepage.png)
+    ![Homepage](documentation/images/chrome_test_homepage.png)
 
     - Music page:
 
-  ![Music page](documentation/images/chrome_test_musicpage.png)
+    ![Music page](documentation/images/chrome_test_musicpage.png)
 
     - Tour page:
 
-  ![Tour page](documentation/images/chrome_test_tourpage.png)
+    ![Tour page](documentation/images/chrome_test_tourpage.png)
 
     - Contact page:
 
-  ![Contact page](documentation/images/chrome_test_contactpage.png)
+    ![Contact page](documentation/images/chrome_test_contactpage.png)
 
-  + FireFox:
++ FireFox:
 
     - Homepage:
 
-  ![Homepage](documentation/images/firefox_test_homepage.png)
+    ![Homepage](documentation/images/firefox_test_homepage.png)
 
     - Music page:
 
-  ![Music page](documentation/images/firefox_test_musicpage.png)
+    ![Music page](documentation/images/firefox_test_musicpage.png)
 
     - Tour page:
 
-  ![Tour page](documentation/images/firefox_test_tourpage.png)
+    ![Tour page](documentation/images/firefox_test_tourpage.png)
 
     - Contact page:
 
-  ![Contact page](documentation/images/firefox_test_contactpage.png)
+    ![Contact page](documentation/images/firefox_test_contactpage.png)
 
 
-  + Safari:
++ Safari:
 
     - Homepage:
 
-  ![Homepage](documentation/images/safari_test_homepage.jpg)
+    ![Homepage](documentation/images/safari_test_homepage.jpg)
 
     - Music page:
 
-  ![Music page](documentation/images/safari_test_musicpage.jpg)
+    ![Music page](documentation/images/safari_test_musicpage.jpg)
 
     - Tour page:
 
-  ![Tour page](documentation/images/safari_test_tourpage.jpg)
+    ![Tour page](documentation/images/safari_test_tourpage.jpg)
 
     - Contact page:
 
-  ![Contact page](documentation/images/safari_test_contactpage.jpg)
+    ![Contact page](documentation/images/safari_test_contactpage.jpg)
 
 
 ## Responsiveness
@@ -84,7 +84,7 @@ In order to confirm the correct functionality and appearance of the site, it was
 
     - Response Page:
 
-    ![Response page](documentation/images/reponsepage_responsive_screenshot.png)
+    ![Response page](documentation/images/responsepage_responsive_screenshot.png)
   
 
 ---
