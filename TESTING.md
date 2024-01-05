@@ -93,32 +93,32 @@ In order to confirm the correct functionality and appearance of the site, it was
   #### Home Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Home Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Findex.html)
+    ![Home Page HTML Validator](documentation/images/html_validator_homepage.png)
     
   #### Music Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Music Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Fmusic.html)
+    ![Music Page HTML Validator](documentation/images/html_validator_music.png)
 
   #### Tour Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Tour Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Ftour.html)
+    ![Tour Page HTML Validator](documentation/images/html_validator_tour.png)
 
   #### Contact Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Contact Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Fcontact.html)
+    ![Contact Page HTML Validator](documentation/images/html_validator_contact.png)
 
     #### Response Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Response Page HTML Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Fresponse.html)
+    ![Response Page HTML Validator](documentation/images/html_validator_response.png)
     
 + ### CSS
   No errors or warnings were found when passing through the official W3C (Jigsaw) validator
 
-  ![CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Frferguson386.github.io%2Fjigsawtiger-rework%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  ![CSS Validator](documentation/images/jigsaw_css_validator.png)
 
 
 + ## LightHouse report
